@@ -20,6 +20,7 @@ This project is an advanced shellcode loader tool designed to implement multiple
    cd shadowShellcode
 ## Usage
 pip install -r requirements.txt
+
 python shellcodemain.py --shellcode <path_to_shellcode> --output <EXE_or_DLL> [options]
 
 ## Options
